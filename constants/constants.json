@@ -1,0 +1,6 @@
+{
+    "jwtUser":"@!@BiElRu@!@",
+
+    "stagingBaseURL": "http://localhost:1993/",
+    "productionBaseURL": "http://localhost:1993/"
+}
